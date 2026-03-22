@@ -1,4 +1,4 @@
-# Guess the Num
+# The Challenge: Guess the Num (You vs Code)
 
 ## Description
 
